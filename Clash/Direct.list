@@ -1,11 +1,17 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 域名后缀匹配
+#DOMAIN-SUFFIX,quickconnect.to
 #DOMAIN-SUFFIX,tracker.m-team.cc
+#DOMAIN-SUFFIX,tracker.m-team.io
+#DOMAIN-SUFFIX,tra1.m-team.io
+#DOMAIN-SUFFIX,tra1.m-team.cc
+#DOMAIN-SUFFIX,cx1.manfuz.co
+#DOMAIN-SUFFIX,cx2.manfuz.co
+#DOMAIN-SUFFIX,az1.makeoxc.co
+#DOMAIN-SUFFIX,az2.makeoxc.co
+#DOMAIN-SUFFIX,rss.m-team.cc
+#DOMAIN-SUFFIX,rss.m-team.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,quickconnect
-DOMAIN-KEYWORD,synlogy
-DOMAIN-KEYWORD,manfuz
-DOMAIN-KEYWORD,makeoxc
-DOMAIN-KEYWORD,m-team
