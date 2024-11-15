@@ -2,16 +2,12 @@
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,quickconnect.to
-#DOMAIN-SUFFIX,tracker.m-team.cc
-#DOMAIN-SUFFIX,tracker.m-team.io
-#DOMAIN-SUFFIX,tra1.m-team.io
-#DOMAIN-SUFFIX,tra1.m-team.cc
-#DOMAIN-SUFFIX,cx1.manfuz.co
-#DOMAIN-SUFFIX,cx2.manfuz.co
-#DOMAIN-SUFFIX,az1.makeoxc.co
-#DOMAIN-SUFFIX,az2.makeoxc.co
-#DOMAIN-SUFFIX,rss.m-team.cc
-#DOMAIN-SUFFIX,rss.m-team.io
+#DOMAIN-SUFFIX,m-team.cc
+#DOMAIN-SUFFIX,m-team.io
+#DOMAIN-SUFFIX,manfuz.co
+#DOMAIN-SUFFIX,makeoxc.co
+#DOMAIN-SUFFIX,m-team.cc
+#DOMAIN-SUFFIX,m-team.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,quickconnect
