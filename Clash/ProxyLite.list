@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,icc2022.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+#DOMAIN-KEYWORD,m-team
+#DOMAIN-KEYWORD,manfuz
+#DOMAIN-KEYWORD,makeoxc
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
