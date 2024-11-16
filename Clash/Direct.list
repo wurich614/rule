@@ -9,6 +9,4 @@ DOMAIN-SUFFIX,tra1.m-team.io
 DOMAIN-SUFFIX,tra1.m-team.cc
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,quickconnect
-DOMAIN-KEYWORD,synology
-DOMAIN-KEYWORD,m-team
+#DOMAIN-KEYWORD,quickconnect
