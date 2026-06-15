@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,tracker.qingwa.pro
 DOMAIN-SUFFIX,tracker.qingwapt.com
 DOMAIN-SUFFIX,tracker.qingwapt.org
 DOMAIN-SUFFIX,vicp.cc
+DOMAIN-SUFFIX,oray.com,DIRECT
+DOMAIN-SUFFIX,oray.net,DIRECT
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,quickconnect
